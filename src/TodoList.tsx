@@ -1,6 +1,6 @@
 import './todoList.css'
 
-interface TodoListProps {
+export interface TodoListProps {
   children: React.ReactNode;
 }
 

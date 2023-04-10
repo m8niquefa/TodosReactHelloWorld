@@ -136,3 +136,10 @@ const MyInput: React.FC = () => {
 In summary, props are used to pass data and event handlers between React components, while attributes are used to provide additional information or configuration for HTML elements. In React, attributes often become part of the props for a given element, allowing you to customize the behavior, appearance, and content of the element.
 
 
+# Local Storage
+
+# React Hooks
+
+# External Events
+
+# Providers
